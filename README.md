@@ -4,7 +4,7 @@ If you find any mistakes or bugs in the code please let me know.
 Also please let me know if you feel that I have misinterpreted the algorithm or implemented it in non-optimal way.
 Contact e-mail: innevolution@gmail.com
 
-I will write most of my code in C, but will probably keep several versions in Java, Python, some Lisp dialect, Haskell and JavaScript
+I will write most of my code in C, Java, Python, some Lisp dialect, Haskell and JavaScript
 
 I belive this repo will be active for years and i don`t expect to write everything in a couple of monthes.
 
