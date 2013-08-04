@@ -1,3 +1,17 @@
+This repo is used to store my implementation of different algorithms.
+
+If you find any mistakes or bugs in the code please let me know.
+Also please let me know if you feel that I have misinterpreted the algorithm or implemented it in non-optimal way.
+Contact e-mail: innevolution@gmail.com
+
+I will write most of my code in C, but will probably keep several versions in Java, Python, some Lisp dialect, Haskell and JavaScript
+
+I belive this repo will be active for years and i don`t expect to write everything in a couple of monthes.
+
+DONE:
+=====
+
+
 TODO List Of Algorithms:
 =======================  
 http://en.wikipedia.org/wiki/List_of_algorithms
@@ -78,5 +92,3 @@ http://en.wikipedia.org/wiki/List_of_algorithms
 6.4.3 Process synchronization
 6.4.4 Scheduling
 
-DONE:
-=====
